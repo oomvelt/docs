@@ -1,0 +1,6 @@
+
+flexjacket.txt = https://goo.gl/photos/RZyrg1qSM4Th1xTB9
+flexjacket2.txt = ?
+flexjacket3.txt = https://goo.gl/photos/1AKc97vB5KsSXBRi7
+flexjacket-distance.txt = https://goo.gl/photos/otGPHAZsjKtyVFdF7
+
